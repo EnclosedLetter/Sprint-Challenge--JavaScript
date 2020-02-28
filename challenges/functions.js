@@ -48,7 +48,7 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 
 // Explanation: 
 
-// nested functions can acces the variable because the child is inheriting the function's attributes? You can acccess functions inside from the outside, but cannot access from inside to the outside.
+nested functions can acces the variable because the child is inheriting the function's attributes? You can acccess functions inside from the outside, but cannot access from inside to the outside.
 
 
 const external = "I'm outside the function";
